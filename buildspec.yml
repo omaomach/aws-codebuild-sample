@@ -44,4 +44,4 @@ artifacts:
     # Includes all files
     - '**/*'
   # Removes directory paths from stored artifacts
-  discard-paths: yes
+  discard-paths: no
